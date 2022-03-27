@@ -11,7 +11,7 @@
 
 ## About me
 
-Currently, I have made a decision to change my professional field of activity. I like to acquire new skills, I believe that the future belongs to the field of information technology and artificial intelligence, I would like not to fall behind from life, to improve and develop. That is why I want to become a web developer.
+
 
 ## Education
 
@@ -26,10 +26,10 @@ Currently, I have made a decision to change my professional field of activity. I
 ## Code example
 ```
 function isDivideBy( number, a, b ) {
-if ( number % a == 0 && number % b == 0){
+if ( number % a == 0 && number % b == 0) {
   return true;
 }
-  else{
+  else {
     return false;
   }
 };
